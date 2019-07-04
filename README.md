@@ -24,23 +24,14 @@ In order to demonstrate GroupDocs.Editor for Java reach and powerful features we
 
 | Family                      | Formats                                                                                                                            |
 | --------------------------- |:---------------------------------------------------------------------------------------------------------------------------------- |
-| Portable Document Format    | `PDF`                                                                                                                              |
 | Microsoft Word              | `DOC`, `DOCM` , `DOCX`, `DOT`, `DOTM`, `DOTX`                                                                                      |
 | Microsoft Excel             | `XLS`, `XLSB`, `XLSM`, `XLSX`, `XLT`, `XLTM`, `XLTX`                                                                               |
 | Microsoft PowerPoint        | `PPT`, `POT`, `POTM`, `POTX`, `PPS`, `PPSM`, `PPSX`, `PPTM`, `PPTX`                                                                |
-| Microsoft Visio             | `VSD`, `VDW`, `VDX`, `VSDX`, `VSS`, `VST`, `VSX`, `VTX`                                                                            |
-| Microsoft Project           | `MPP`, `MPT`                                                                                                                       |
-| Microsoft Outlook           | `EML`, `EMLX`, `MSG`                                                                                                               |
 | OpenDocument Formats        | `ODT`, `ODP`, `ODS`, `OTT`                                                                                                         |
 | Plain Text File             | `TXT`                                                                                                                              |
 | Comma-Separated Values      | `CSV`                                                                                                                              |
 | HyperText Markup Language   | `HTML`, `MHT`, `MHTML`, `SVG`                                                                                                      |
 | Extensible Markup Language  | `XML`,`XML`, `XPS`                                                                                                                 |
-| AutoCAD Drawing File Format | `DGN`, `DWG`, `DXF`                                                                                                                |
-| Image files                 | `BMP`, `CAL`, `DCX`, `DIB`, `EMF`, `GIF`, `JP2`, `JPG`, `MIL`, `MIL`, `PCD`, `PCT`, `PCX`, `PNG`, `PSD`, `RAS`, `TGA`,`TIFF`,`WMF` |
-| Electronic publication      | `EPUB`                                                                                                                             |
-| Windows Icon                | `ICO`                                                                                                                              |
-| Medical image files         | `DCM`                                                                                                                              | 
 
 ## Features
 - Responsive design
@@ -92,7 +83,7 @@ Download [latest release](https://github.com/groupdocs-editor/GroupDocs.Editor-f
 curl -J -L -o release.tar.gz https://github.com/groupdocs-editor/GroupDocs.Editor-for-Java-Spring/releases/download/1.14.18/release.tar.gz
 tar -xvzf release.tar.gz
 cd release
-java -jar editor-spring-1.14.18.jar configuration.yaml
+java -jar editor-spring-1.0.0.jar configuration.yaml
 ## Open http://localhost:8080/editor/ in your favorite browser.
 ```
 
