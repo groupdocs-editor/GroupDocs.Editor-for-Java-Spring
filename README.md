@@ -12,7 +12,7 @@
 
 
 ## Document Editor API for Java Spring
-[GroupDocs.Editor for Java](https://products.groupdocs.com/editor/java) API allows you to view over 90 document formats including **DOCX**, **PDF**, **PPT**, **XLS**, among many others without any additional dependencies. Thanks to its flexible configuration it can be configured to **view documents as images or as HTML5**.
+[GroupDocs.Editor for Java](https://products.groupdocs.com/editor/java) API allows you to edit documents without any additional dependencies.
 
 
 In order to demonstrate GroupDocs.Editor for Java reach and powerful features we prepared a modern **document editor** front-end web UI example. Which can be used as a standalone application or easily integrated into your project.
