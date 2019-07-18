@@ -2,7 +2,6 @@
   "name": "groupdocs.editor-for-java-spring",
   "version": "1.0.0",
   "description": "",
-  "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,8 +15,8 @@
     "url": "https://github.com/groupdocs-editor/GroupDocs.Editor-for-Java-Spring/issues"
   },
   "homepage": "https://github.com/groupdocs-editor/GroupDocs.Editor-for-Java-Spring#readme",
-  "dependencies": {},
-  "devDependencies": {
-    "gulp": "^4.0.2"
-  }
+  "dependencies": {
+    "@groupdocs.examples.angular/editor": "^0.2.2"
+  },
+  "devDependencies": {}
 }
