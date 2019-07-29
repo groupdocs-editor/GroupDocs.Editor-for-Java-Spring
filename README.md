@@ -1,4 +1,4 @@
-![GroupDocs.Editor](https://raw.githubusercontent.com/groupdocs-editor/groupdocs-editor.github.io/master/resources/image/banner.png "GroupDocs.Editor")
+![GroupDocs.Editor](https://raw.githubusercontent.com/groupdocs-editor/groupdocs-editor.github.io/master/resources/image/banner.png "Document Editor API for Java Spring")
 # GroupDocs.Editor for Java Spring Example
 ###### version 1.0.0
 
@@ -12,35 +12,32 @@
 
 
 ## Document Editor API for Java Spring
-[GroupDocs.Editor for Java](https://products.groupdocs.com/editor/java) API allows you to view over 90 document formats including **DOCX**, **PDF**, **PPT**, **XLS**, among many others without any additional dependencies. Thanks to its flexible configuration it can be configured to **view documents as images or as HTML5**.
+[GroupDocs.Editor for Java](https://products.groupdocs.com/editor/java) is a library that allows you to **edit DOCX, ODT, XLS and other supported formats in form of HTML** and save it back to the original format. With GroupDocs.Editor you can easily edit documents on the web with your favorite WYSIWYG editor without external dependencies.
 
+This web application demonstrates the powerful capabilities of GroupDocs.Editor with a built-in **WYSIWYG document editor** and can be used as a standalone application or can be easily integrated into your project.
 
-In order to demonstrate GroupDocs.Editor for Java reach and powerful features we prepared a modern **document editor** front-end web UI example. Which can be used as a standalone application or easily integrated into your project.
-
-**Note:** without a license application will run in trial mode, purchase [GroupDocs.Editor for Java license](https://purchase.groupdocs.com/order-online-step-1-of-8.aspx) or request [GroupDocs.Editor for Java temporary license](https://purchase.groupdocs.com/temporary-license).
+**Note:** Without a license application will run in trial mode, purchase [GroupDocs.Editor for Java license](https://purchase.groupdocs.com/order-online-step-1-of-8.aspx) or request [GroupDocs.Editor for Java temporary license](https://purchase.groupdocs.com/temporary-license).
 
 
 ## Supported document Formats
 
 | Family                      | Formats                                                                                                                            |
 | --------------------------- |:---------------------------------------------------------------------------------------------------------------------------------- |
-| Portable Document Format    | `PDF`                                                                                                                              |
 | Microsoft Word              | `DOC`, `DOCM` , `DOCX`, `DOT`, `DOTM`, `DOTX`                                                                                      |
 | Microsoft Excel             | `XLS`, `XLSB`, `XLSM`, `XLSX`, `XLT`, `XLTM`, `XLTX`                                                                               |
-| Microsoft PowerPoint        | `PPT`, `POT`, `POTM`, `POTX`, `PPS`, `PPSM`, `PPSX`, `PPTM`, `PPTX`                                                                |
-| Microsoft Visio             | `VSD`, `VDW`, `VDX`, `VSDX`, `VSS`, `VST`, `VSX`, `VTX`                                                                            |
-| Microsoft Project           | `MPP`, `MPT`                                                                                                                       |
-| Microsoft Outlook           | `EML`, `EMLX`, `MSG`                                                                                                               |
 | OpenDocument Formats        | `ODT`, `ODP`, `ODS`, `OTT`                                                                                                         |
 | Plain Text File             | `TXT`                                                                                                                              |
 | Comma-Separated Values      | `CSV`                                                                                                                              |
 | HyperText Markup Language   | `HTML`, `MHT`, `MHTML`, `SVG`                                                                                                      |
 | Extensible Markup Language  | `XML`,`XML`, `XPS`                                                                                                                 |
-| AutoCAD Drawing File Format | `DGN`, `DWG`, `DXF`                                                                                                                |
-| Image files                 | `BMP`, `CAL`, `DCX`, `DIB`, `EMF`, `GIF`, `JP2`, `JPG`, `MIL`, `MIL`, `PCD`, `PCT`, `PCX`, `PNG`, `PSD`, `RAS`, `TGA`,`TIFF`,`WMF` |
-| Electronic publication      | `EPUB`                                                                                                                             |
-| Windows Icon                | `ICO`                                                                                                                              |
-| Medical image files         | `DCM`                                                                                                                              | 
+
+## Demo Video
+
+<p align="center">
+  <a title="Document editor for JAVA " href="https://youtu.be/pcqg4y87S8I"> 
+    <img src="https://raw.githubusercontent.com/groupdocs-editor/groupdocs-editor.github.io/master/resources/image/editor.gif" width="100%" style="width:100%;">
+  </a>
+</p>
 
 ## Features
 - Responsive design
@@ -49,7 +46,7 @@ In order to demonstrate GroupDocs.Editor for Java reach and powerful features we
 - Clean, modern and intuitive design
 - Edit, format documents
 - Mobile support (open application on any mobile device)
-- Support over 50 documents and image formats including **DOCX**, **PDF**, **PPT**, **XLS**
+- Support over 50 documents and image formats including **DOCX**, **ODT**, **XLS**
 - Fully customizable navigation panel
 - Open password protected documents
 - Download documents
@@ -92,7 +89,7 @@ Download [latest release](https://github.com/groupdocs-editor/GroupDocs.Editor-f
 curl -J -L -o release.tar.gz https://github.com/groupdocs-editor/GroupDocs.Editor-for-Java-Spring/releases/download/1.14.18/release.tar.gz
 tar -xvzf release.tar.gz
 cd release
-java -jar editor-spring-1.14.18.jar configuration.yaml
+java -jar editor-spring-1.0.0.jar configuration.yaml
 ## Open http://localhost:8080/editor/ in your favorite browser.
 ```
 
