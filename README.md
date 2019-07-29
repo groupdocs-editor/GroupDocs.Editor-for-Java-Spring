@@ -1,6 +1,6 @@
 ![GroupDocs.Editor](https://raw.githubusercontent.com/groupdocs-editor/groupdocs-editor.github.io/master/resources/image/banner.png "Document Editor API for Java Spring")
 # GroupDocs.Editor for Java Spring Example
-###### version 1.0.0
+###### version 1.0.1
 
 [![Build Status](https://travis-ci.org/groupdocs-editor/GroupDocs.Editor-for-Java-Spring.svg?branch=master)](https://travis-ci.org/groupdocs-editor/GroupDocs.Editor-for-Java-Spring)
 [![Maintainability](https://api.codeclimate.com/v1/badges/e8ee774e4c4b2fad413a/maintainability)](https://codeclimate.com/github/groupdocs-editor/GroupDocs.Editor-for-Java-Spring/maintainability)
@@ -89,7 +89,7 @@ Download [latest release](https://github.com/groupdocs-editor/GroupDocs.Editor-f
 curl -J -L -o release.tar.gz https://github.com/groupdocs-editor/GroupDocs.Editor-for-Java-Spring/releases/download/1.14.18/release.tar.gz
 tar -xvzf release.tar.gz
 cd release
-java -jar editor-spring-1.0.0.jar configuration.yaml
+java -jar editor-spring-1.0.1.jar configuration.yaml
 ## Open http://localhost:8080/editor/ in your favorite browser.
 ```
 

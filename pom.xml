@@ -6,7 +6,7 @@
 
     <groupId>com.groupdocs.ui</groupId>
     <artifactId>editor-spring</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>${packaging.type}</packaging>
 
     <name>GroupDocs.Editor for Java Spring Sample</name>
