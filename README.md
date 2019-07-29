@@ -1,4 +1,4 @@
-![GroupDocs.Editor](https://raw.githubusercontent.com/groupdocs-editor/groupdocs-editor.github.io/master/resources/image/banner.png "GroupDocs.Editor")
+![GroupDocs.Editor](https://raw.githubusercontent.com/groupdocs-editor/groupdocs-editor.github.io/master/resources/image/banner.png "Document Editor API for Java Spring")
 # GroupDocs.Editor for Java Spring Example
 ###### version 1.0.0
 
@@ -12,12 +12,11 @@
 
 
 ## Document Editor API for Java Spring
-[GroupDocs.Editor for Java](https://products.groupdocs.com/editor/java) API allows you to edit documents without any additional dependencies.
+[GroupDocs.Editor for Java](https://products.groupdocs.com/editor/java) is a library that allows you to **edit DOCX, ODT, XLS and other supported formats in form of HTML** and save it back to the original format. With GroupDocs.Editor you can easily edit documents on the web with your favorite WYSIWYG editor without external dependencies.
 
+This web application demonstrates the powerful capabilities of GroupDocs.Editor with a built-in **WYSIWYG document editor** and can be used as a standalone application or can be easily integrated into your project.
 
-In order to demonstrate GroupDocs.Editor for Java reach and powerful features we prepared a modern **document editor** front-end web UI example. Which can be used as a standalone application or easily integrated into your project.
-
-**Note:** without a license application will run in trial mode, purchase [GroupDocs.Editor for Java license](https://purchase.groupdocs.com/order-online-step-1-of-8.aspx) or request [GroupDocs.Editor for Java temporary license](https://purchase.groupdocs.com/temporary-license).
+**Note:** Without a license application will run in trial mode, purchase [GroupDocs.Editor for Java license](https://purchase.groupdocs.com/order-online-step-1-of-8.aspx) or request [GroupDocs.Editor for Java temporary license](https://purchase.groupdocs.com/temporary-license).
 
 
 ## Supported document Formats
@@ -26,7 +25,6 @@ In order to demonstrate GroupDocs.Editor for Java reach and powerful features we
 | --------------------------- |:---------------------------------------------------------------------------------------------------------------------------------- |
 | Microsoft Word              | `DOC`, `DOCM` , `DOCX`, `DOT`, `DOTM`, `DOTX`                                                                                      |
 | Microsoft Excel             | `XLS`, `XLSB`, `XLSM`, `XLSX`, `XLT`, `XLTM`, `XLTX`                                                                               |
-| Microsoft PowerPoint        | `PPT`, `POT`, `POTM`, `POTX`, `PPS`, `PPSM`, `PPSX`, `PPTM`, `PPTX`                                                                |
 | OpenDocument Formats        | `ODT`, `ODP`, `ODS`, `OTT`                                                                                                         |
 | Plain Text File             | `TXT`                                                                                                                              |
 | Comma-Separated Values      | `CSV`                                                                                                                              |
@@ -40,7 +38,7 @@ In order to demonstrate GroupDocs.Editor for Java reach and powerful features we
 - Clean, modern and intuitive design
 - Edit, format documents
 - Mobile support (open application on any mobile device)
-- Support over 50 documents and image formats including **DOCX**, **PDF**, **PPT**, **XLS**
+- Support over 50 documents and image formats including **DOCX**, **ODT**, **XLS**
 - Fully customizable navigation panel
 - Open password protected documents
 - Download documents
