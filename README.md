@@ -130,12 +130,4 @@ Please have a look at the LICENSE.md for more details
 - .NET WebForms [Document editor](https://github.com/groupdocs-editor/GroupDocs.Editor-for-.NET-WebForms)
 
 
-## Resources
-- **Website:** [www.groupdocs.com](http://www.groupdocs.com)
-- **Product Home:** [GroupDocs.Editor for Java](https://products.groupdocs.com/editor/java)
-- **Product API References:** [GroupDocs.Editor for Java API](https://apireference.groupdocs.com/java/editor)
-- **Download:** [Download GroupDocs.Editor for Java](http://downloads.groupdocs.com/editor/java)
-- **Documentation:** [GroupDocs.Editor for Java Documentation](https://docs.groupdocs.com/display/editorjava/Home)
-- **Free Support Forum:** [GroupDocs.Editor for Java Free Support Forum](https://forum.groupdocs.com/c/editor)
-- **Paid Support Helpdesk:** [GroupDocs.Editor for Java Paid Support Helpdesk](https://helpdesk.groupdocs.com)
-- **Blog:** [GroupDocs.Editor for Java Blog](https://blog.groupdocs.com/category/groupdocs-editor-product-family/)
+[Home](https://www.groupdocs.com/) | [Product Page](https://products.groupdocs.com/editor/java) | [Documentation](https://docs.groupdocs.com/editor/java/) | [Demos](https://products.groupdocs.app/editor/family) | [API Reference](https://apireference.groupdocs.com/editor/java) | [Examples](https://github.com/groupdocs-editor/GroupDocs.editor-for-Java/tree/master/Examples) | [Blog](https://blog.groupdocs.com/category/editor/) | [Free Support](https://forum.groupdocs.com/c/editor) | [Temporary License](https://purchase.groupdocs.com/temporary-license)
