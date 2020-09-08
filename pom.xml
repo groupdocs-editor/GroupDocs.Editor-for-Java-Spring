@@ -143,7 +143,7 @@
         <dependency>
             <groupId>com.groupdocs</groupId>
             <artifactId>groupdocs-editor</artifactId>
-            <version>19.4</version>
+            <version>20.8</version>
             <type>jar</type>
         </dependency>
 
